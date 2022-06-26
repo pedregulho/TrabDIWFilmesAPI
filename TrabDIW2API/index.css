@@ -1,0 +1,12 @@
+main {
+  min-height: 100vh;
+  padding: 2em 2em;
+}
+
+.filmes {
+  padding: 2em 2em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
